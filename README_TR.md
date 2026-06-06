@@ -15,20 +15,20 @@ Gelir, Sipariş Sayısı, Brüt Kar, Brüt Kar Marjı, Sipariş Başına
 Ortalama Gelir (AOV) ve Dönüşüm Oranı gibi temel iş metriklerinin 
 yıllık trendi ve aylık KPI takibi.
 
-![Executive Summary](images/Toy1.png)
+![Executive Summary](Toy1.png)
 
 **Sayfa 2 — Ürün Analizi**
 Ürün bazında gelir, brüt kar, iade oranı ve marj performansı 
 karşılaştırması. En yüksek marjlı ve en çok iade edilen ürünler 
 belirlenmektedir.
 
-![Product Analysis](images/Toy2.png)
+![Product Analysis](Toy2.png)
 
 **Sayfa 3 — Trafik & Kampanya Analizi**
 Cihaz türüne göre performans, oturum hacmi ve kampanya bazlı 
 dönüşüm oranları analizi.
 
-![Traffic Analysis](images/Toy3.png)
+![Traffic Analysis](Toy3.png)
 
 ---
 
