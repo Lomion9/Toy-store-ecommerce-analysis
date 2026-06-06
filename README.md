@@ -15,15 +15,21 @@ Overview of key business metrics including Revenue, Orders,
 Gross Profit, Gross Margin, AOV, and Conversion Rate with 
 year-over-year trends and monthly KPI tracking.
 
+![Executive Summary](Toy1.png)
+
 **Page 2 — Product Analysis**
 Product-level breakdown of revenue, gross profit, refund rates, 
 and margin performance. Identifies highest margin and most 
 returned products.
 
+![Product Analysis](Toy2.png)
+
 **Page 3 — Traffic & Campaign Analysis**
 Device type performance, session volume, and campaign-level 
 conversion rates. Key insight: Brand Search drives the highest 
 conversion rate despite lower order volume.
+
+![Traffic Analysis](Toy3.png)
 
 ---
 
